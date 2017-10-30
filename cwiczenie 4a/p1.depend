@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1506264915 source:c:\users\dagothar\documents\github\programowanie_obiektowe_1\p1\main.cpp
+	<iostream>
+	"Student.hpp"
+
+1506264915 c:\users\dagothar\documents\github\programowanie_obiektowe_1\p1\student.hpp
+	<iostream>
+	<string>
+
+1506263727 source:c:\users\dagothar\documents\github\programowanie_obiektowe_1\p1\student.cpp
+	"Student.hpp"
+
+1506266075 source:d:\dawidziuk\cc\programowanie_obiektowe_1-naprawiamy_projekt\p1\main.cpp
+	<iostream>
+	"Student.hpp"
+
+1506266075 d:\dawidziuk\cc\programowanie_obiektowe_1-naprawiamy_projekt\p1\student.hpp
+	<iostream>
+	<string>
+
+1509372407 source:d:\makaruk\cwiczenie 3\cwiczenie3\cwiczenie4\cwiczenie 4a\main.cpp
+	<iostream>
+	"Student.hpp"
+
+1506262475 d:\makaruk\cwiczenie 3\cwiczenie3\cwiczenie4\cwiczenie 4a\student.hpp
+	<iostream>
+	<string>
+
